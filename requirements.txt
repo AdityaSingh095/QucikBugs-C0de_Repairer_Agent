@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain_google_genai
+dotenv
+pandas
+matplotlib
