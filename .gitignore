@@ -1,3 +1,6 @@
 .env
 
 repenv/
+
+__pycache__/
+*.py[cod]
